@@ -13,9 +13,17 @@ The goal of this project is to assist in the early detection of brain tumors usi
 ## 🗂️ Dataset Information
 
 > The dataset is not uploaded here due to size limits.  
-> **Please download it from Kaggle:**  
-> [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
+> **Please download it from Google Drive:**
 
+📎 [Download Brain Tumor Dataset from Google Drive](https://drive.google.com/drive/folders/1RBdXR8OuY99iuUVMA6xrxWxhJOxVgl2g?usp=drive_link)
+
+To download via terminal or script, use the following command:
+
+```bash
+pip install gdown
+gdown --folder https://drive.google.com/drive/folders/1RBdXR8OuY99iuUVMA6xrxWxhJOxVgl2g
+
+```
 Once downloaded, ensure your folder is structured like this:
 
 ```
