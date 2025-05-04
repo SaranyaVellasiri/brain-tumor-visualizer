@@ -96,11 +96,9 @@ Brain_tumor_visualizer/
 
 ## 📸 Project Preview
 
-### 🔹 Upload Page
-![Upload Screenshot](images/upload_page.png)
-
-### 🔹 Prediction Result
-![Prediction Screenshot](images/result_page.png)
+| 🔹 Upload Page | 🔹 Prediction Result |
+|----------------|----------------------|
+| ![Upload Page](images/upload_page.png) | ![Result Page](images/result_page.png) |
 
 ---
 
