@@ -10,18 +10,24 @@ The goal of this project is to assist in the early detection of brain tumors usi
 
 ---
 
-## 🗂️ Dataset Information
+## 🗂️ Dataset & Model Information
 
-> The dataset is not uploaded here due to size limits.  
-> **Please download it from Google Drive:**
+> The dataset and model file are not uploaded here due to size limits.  
+> **Please download them from Google Drive:**
 
-📎 [Download Brain Tumor Dataset from Google Drive](https://drive.google.com/drive/folders/1RBdXR8OuY99iuUVMA6xrxWxhJOxVgl2g?usp=drive_link)
+📎 [Download Brain Tumor Dataset from Google Drive](https://drive.google.com/drive/folders/1RBdXR8OuY99iuUVMA6xrxWxhJOxVgl2g?usp=drive_link)  
+📎 [Download Trained Model (`brain_tumor_model.h5`) from Google Drive](https://drive.google.com/file/d/1d8unYxdg0Kv5AjOhLy0F43aBTCLVyZaH/view?usp=drive_link)
 
-To download via terminal or script, use the following command:
+To download via terminal or script, use the following commands:
 
 ```bash
 pip install gdown
+
+# Download dataset folder
 gdown --folder https://drive.google.com/drive/folders/1RBdXR8OuY99iuUVMA6xrxWxhJOxVgl2g
+
+# Download model file
+gdown https://drive.google.com/uc?id=1d8unYxdg0Kv5AjOhLy0F43aBTCLVyZaH
 
 ```
 Once downloaded, ensure your folder is structured like this:
