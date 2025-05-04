@@ -104,5 +104,4 @@ Brain_tumor_visualizer/
 
 ## ✨ Thank You for Visiting!
 
-Stay curious, keep learning, and continue building cool projects.  
-Made with 💙 and Python.
+
